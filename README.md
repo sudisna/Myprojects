@@ -8,17 +8,19 @@ Here will be the list of all the projects I have done and the updates on them :
 **IBM Watson Personality Insights:**
 
 **Scope Of The Project:**
-To use an api connection to IBM watson personality insight to get big5 score for both fictional characters and real people.
+To use an api connection to IBM watson personality insight to get Big5 scores for both fictional characters and real people.
 
 **Description Of The Project:**
-This was my first individual data science projects, I took script from HARRY POTTER movies from kaggle and then
-connected to api of IBM WATSON PERSONALITY INSIGHTS. Then assigned individual confidence interval of big 5 score for each houses.
+This was my first individual data science project, I took script from HARRY POTTER movies from kaggle and then
+connected to api of IBM WATSON PERSONALITY INSIGHTS. Then assigned individual confidence intervals of Big5 scores for each houses.
 
-Based on these scores then I took datasets of the celebrities with their big5 scores (based on their tweet post) and then tried to sort them into HARRY POTTER houses.
+Based on these scores I then took datasets of the celebrities with their Big5 scores (based on their tweets) and tried to sort them into HOGWARTS houses.
 
 **Language Used:** Python
 
-**Tools Used:** 1.Jupyter Notebook 2.Tableau
+**Tools Used:** 
+1.Jupyter Notebook 
+2.Tableau
 
 **Skills Used:**
 1. Data Cleaning 
@@ -29,11 +31,11 @@ Based on these scores then I took datasets of the celebrities with their big5 sc
 **Steps Followed:**
 1. Download the harry potter movie script having characters and their dialogues dataset from Kaggle
 2. Import the file in the notebook and do the data cleaning
-3. Connect to the ibm api and process the dataset to get a new dataset containing big5 score for each character
+3. Connect to the ibm api and process the dataset to get a new dataset containing Big5 score for each character
 4. Clean the retrieved dataset from ibm api
-5. Do data analysis to find the big5 score for each houses and set a confidence interval for each house
-6.Check the rankings of houses wrt to big5 score and fan ratings and see whether the hypothesis is correct or not
-7.Import a new dataset with celebrities and their big5 score based on their twitter post
-8.Do data analysis to check their mean score and see if they fall into the confidence interval which we created earlier.
+5. Analyse to find the Big5 scores and set confidence intervals for each house
+6. Check the rankings of houses wrt to Big5 scores and fan ratings and see whether the hypothesis is correct or not
+7. Import a new dataset with celebrities and their Big5 scores based on their tweets
+8. Analyse to check their mean scores and see if they fall into the confidence intervals created earlier.
 
-**Goal of the project:** To sort the celebrities into  harry potter houses based on their average big5 scores
+**Goal of the project:** To sort the celebrities into  HOGWARTS houses based on their average Big5 scores
