@@ -13,7 +13,7 @@ connected to api of IBM WATSON PERSONALITY INSIGHTS. Then connected individual c
 Based on these scores then I took datasets of the celebrities with their big5 scores (based on their tweet post) and then tried to sort them into HARRY POTTER houses.
 
 SKILLS USED:
-a)Data Cleaning
-c) API connection
-d) Data retrieval
-e) Data Analysis
+a)Data Cleaning /n
+c) API connection /n
+d) Data retrieval /n
+e) Data Analysis /n
