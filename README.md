@@ -19,8 +19,8 @@ Based on these scores I then took datasets of the celebrities with their Big5 sc
 **Language Used:** Python
 
 **Tools Used:** 
-1.Jupyter Notebook 
-2.Tableau
+1. Jupyter Notebook 
+2. Tableau
 
 **Skills Used:**
 1. Data Cleaning 
