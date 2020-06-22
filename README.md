@@ -1,5 +1,5 @@
 # Myprojects
-Here will be the list of all the projects I have done and the updates on it :
+Here will be the list of all the projects I have done and the updates on them :
 
 1) IBM Watson Personality Insights
 
